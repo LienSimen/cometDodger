@@ -123,10 +123,7 @@
                     {
                         Console.WriteLine("Press 1 or 2");
                     }
-
-
                 }
-
             }
         }
     }
