@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cometDodger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8c164bc6128f9a7c90fbd5978095530217c229f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8ecd753b66e70368125c42b50ff302924b125b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("cometDodger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cometDodger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
