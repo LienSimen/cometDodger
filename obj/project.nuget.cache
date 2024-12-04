@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jTjLMXSmeA8=",
+  "dgSpecHash": "5ZG6JUXsW/I=",
   "success": true,
   "projectFilePath": "C:\\Users\\Simen\\Documents\\C#\\cometDodger\\cometDodger.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Simen\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\9.0.0\\microsoft.netcore.app.runtime.linux-x64.9.0.0.nupkg.sha512",
-    "C:\\Users\\Simen\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\9.0.0\\microsoft.aspnetcore.app.runtime.linux-x64.9.0.0.nupkg.sha512",
-    "C:\\Users\\Simen\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\9.0.0\\microsoft.netcore.app.host.linux-x64.9.0.0.nupkg.sha512"
+    "C:\\Users\\Simen\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\9.0.0\\microsoft.netcore.app.runtime.osx-x64.9.0.0.nupkg.sha512",
+    "C:\\Users\\Simen\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\9.0.0\\microsoft.aspnetcore.app.runtime.osx-x64.9.0.0.nupkg.sha512",
+    "C:\\Users\\Simen\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\9.0.0\\microsoft.netcore.app.host.osx-x64.9.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,15 @@
+C:\Users\Simen\Documents\C#\cometDodger\bin\Debug\net9.0\cometDodger.exe
+C:\Users\Simen\Documents\C#\cometDodger\bin\Debug\net9.0\cometDodger.deps.json
+C:\Users\Simen\Documents\C#\cometDodger\bin\Debug\net9.0\cometDodger.runtimeconfig.json
+C:\Users\Simen\Documents\C#\cometDodger\bin\Debug\net9.0\cometDodger.dll
+C:\Users\Simen\Documents\C#\cometDodger\bin\Debug\net9.0\cometDodger.pdb
+C:\Users\Simen\Documents\C#\cometDodger\obj\Debug\net9.0\cometDodger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simen\Documents\C#\cometDodger\obj\Debug\net9.0\cometDodger.AssemblyInfoInputs.cache
+C:\Users\Simen\Documents\C#\cometDodger\obj\Debug\net9.0\cometDodger.AssemblyInfo.cs
+C:\Users\Simen\Documents\C#\cometDodger\obj\Debug\net9.0\cometDodger.csproj.CoreCompileInputs.cache
+C:\Users\Simen\Documents\C#\cometDodger\obj\Debug\net9.0\cometDodger.sourcelink.json
+C:\Users\Simen\Documents\C#\cometDodger\obj\Debug\net9.0\cometDodger.dll
+C:\Users\Simen\Documents\C#\cometDodger\obj\Debug\net9.0\refint\cometDodger.dll
+C:\Users\Simen\Documents\C#\cometDodger\obj\Debug\net9.0\cometDodger.pdb
+C:\Users\Simen\Documents\C#\cometDodger\obj\Debug\net9.0\cometDodger.genruntimeconfig.cache
+C:\Users\Simen\Documents\C#\cometDodger\obj\Debug\net9.0\ref\cometDodger.dll
