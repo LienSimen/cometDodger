@@ -1,0 +1,20 @@
+# Ignore build and debug artifacts
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# User-specific files
+*.user
+*.lock.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+.vs/
+
+# Rider
+.idea/
