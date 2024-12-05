@@ -2,7 +2,7 @@
 {
     public static void Main(string[] args)
     {
-        int cometSpeed = 25;
+        int cometSpeed = 40;
 
         if (args.Length > 0)
         {
@@ -45,7 +45,7 @@
 
             while (true)
             {
-                int cometLine = random.Next(1, 5);
+                int cometLine = random.Next(1, 4);
                 int cometPos = 0;
                 bool collision = false;
 
